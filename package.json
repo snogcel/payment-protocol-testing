@@ -1,0 +1,24 @@
+{
+  "name": "payment-protocol-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bitcore-lib-dash": "^0.15.0",
+    "bitcore-payment-protocol-dash": "snogcel/bitcore-payment-protocol-dash#master_upstream"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snogcel/payment-protocol-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snogcel/payment-protocol-testing/issues"
+  },
+  "homepage": "https://github.com/snogcel/payment-protocol-testing#readme"
+}
